@@ -4,4 +4,4 @@
 
 > More music! Cheers!
 
-[Online](https://xieyuheng.github.io/music-diary)
+[Listen online](https://xieyuheng.github.io/music-diary)
